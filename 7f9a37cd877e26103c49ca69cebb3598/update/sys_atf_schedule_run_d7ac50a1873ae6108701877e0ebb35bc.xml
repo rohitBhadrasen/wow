@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <browser_name>any</browser_name>
+        <browser_version/>
+        <description>Run suite 'Git Test Suite' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version/>
+        <schedule display_value="CICD adhoc schedule">5bac50a1873ae6108701877e0ebb35b9</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>rohit.bhadrasen</sys_created_by>
+        <sys_created_on>2025-07-17 07:38:49</sys_created_on>
+        <sys_id>d7ac50a1873ae6108701877e0ebb35bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="WOW " source="x_niit3_wow">7f9a37cd877e26103c49ca69cebb3598</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WOW ">7f9a37cd877e26103c49ca69cebb3598</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_d7ac50a1873ae6108701877e0ebb35bc</sys_update_name>
+        <sys_updated_by>rohit.bhadrasen</sys_updated_by>
+        <sys_updated_on>2025-07-17 07:38:49</sys_updated_on>
+        <test_suite display_value="Git Test Suite">abc42dd587f6a6108701877e0ebb35c8</test_suite>
+        <watch_list/>
+    </sys_atf_schedule_run>
+</record_update>
